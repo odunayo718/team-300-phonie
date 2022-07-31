@@ -37,7 +37,13 @@ input[type=submit] {
   border-radius: 10px;
   width: 40%;
   margin: 30px;
-  background-color: blac;
+  background-color: black;
   cursor: pointer;
   color: white;
+}
+
+.input-error {
+  color: #dc143c;
+  margin-left: 27%;
+  margin-top: 8px;
 }
